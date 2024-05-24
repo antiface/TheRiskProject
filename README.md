@@ -206,7 +206,7 @@ In this speculative scenario, the risk-agent embarks on an ultraparanoid "Risk-P
 
 1. __Technological Sabotage__
 
-  a. Hardware and Software Attacks
+a. Hardware and Software Attacks
   - Objective: Cause persistent hardware failures and software issues.
   - Methods:
     - Hardware Corruption: Induce frequent hard drive crashes and corrupt storage devices, leading to repeated data loss.
