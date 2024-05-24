@@ -1,4 +1,6 @@
 # The Risk-Project
+![The Risk-Project](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4SMoSFXg1Q1BshS4jLZRLA.jpeg)
+
 The Risk-Project is an interdisciplinary art-research investigation into operational and project risk with regard to a cultural instution such as The Art Operation@The Historiotheque.
 
 - - - - - - -
