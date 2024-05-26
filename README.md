@@ -168,7 +168,7 @@ __Technological Failures and Cybersecurity Threats__
   - *Scenario*: A computer crash corrupts an important audio project file.
   - *Agency of Risk*: Risk takes advantage of technological fragility, causing loss of progress and potential delays in project completion.
   - *Feedback Loop*: The artist invests in more reliable hardware and frequent backups, mitigating future risk but adding to operational costs.
-    __Cybersecurity Breaches:__
+2. __Cybersecurity Breaches:__
   - *Scenario*: A phishing attack compromises the artist's social media accounts.
   - *Agency of Risk*: Risk exploits the security lapse, leading to unauthorized access and potential misuse of the artist's online identity.
   - *Feedback Loop*: This breach leads to heightened cybersecurity measures, improving digital safety but requiring continuous vigilance and potentially limiting online interactions.
